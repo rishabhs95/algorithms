@@ -1,0 +1,164 @@
+CONTENTS*****************************************************************************************************************************************************************
+
+1.> Dynamic Programming
+2.> Graph Algorithms(SCC+Topological Sort+Articulation Points+Lowest Common Ancestor+DFS/BFS)
+3.> MST & Dijkstra
+4.> DSU
+5.> KMP/String Algorithms
+6.> Segment Tree/Binary Index Tree
+7.> Greedy/Adhoc/Math/Binary Search 
+
+This list is somewhat less comprehensive as questions from such algorithms are hard to find and even harder to solve. It is still a great collection for getting started
+on SPOJ. The section in DP contains some classic techniques which need to be studied beforehand.
+
+*************************************************************************************************************************************************************************
+
+Dynamic Programming:
+
+1.>  FARIDA
+2.>  ALIEN2
+3.>  DCEPC501
+4.>  ACPC10D
+5.>  ACODE
+6.>  WACHOVIA (Knapsack)
+7.>  TRT
+8.>  TWENDS
+9.>  NFURY
+10.>  NY10E
+11.>  MAXWOODS (Min Cost Path)
+12.>  ELIS     (Longest Increasing Subsequence)
+13.> EDIST    (Edit Distance)
+14.> EDIT
+15.> MAY99_4    (Binomial Coefficient)
+16.> GOO
+17.> CRSCNTRY (Longest Common Subsequence)
+18.> AIBOHP
+19.> MMAXPER
+20.> MCOINS
+21.> COINS
+22.> PARTY
+23.> PIGBANK
+24.> MINVEST
+25.> SCUBADIV
+26>  RPLB
+27.> NOCHANGE
+28.> FPOLICE
+29.> CHOCOLA
+30.> BAT3
+31.> ALTSEQ
+32.> SMILEY1807
+33.> PHIDIAS
+34.> BABTWR
+35.> RENT
+36.> ORDSUM23
+37.> CZ_PROB1
+38.> UOFTAE
+39.> PPBRJB
+40.> ROCK
+41.> SAFECRAC
+42.> SAMER08C
+43.> MAIN72         (Subset Sum)
+44.> MAIN113
+45.> PERMUT1
+46.> PT07X          (Vertex Cover)
+47.> LPIS
+48.> MKBUDGET
+49.> PERMUT1
+50.> LOVEBIRDS
+51.> TEMPTISL
+52.> PRUBALL        (Egg Dropping Puzzle)
+53.> MIXTURES       (Matrix Chain Multiplication)
+54.> LISA
+55.> CODERE3        (Longest Bitonic Subsequence)
+56.> MARTIAN
+57.> DSUBSEQ
+58.> BVAAN
+
+This does not cover all dp topics from geeksforgeeks such as the cutting rod problem,box stacking problem etc, but will still provide a good foundation on dynamic programming. 
+
+All the best!
+
+*************************************************************************************************************************************************************************
+
+GRAPH ALGORITHMS:-
+
+ADVANCED DFS/BFS AND MISC GRAPH THEORY:-
+
+1.> MLASERP
+2.> ESJAIL
+3.> ESCJAILA
+4.> ONEZERO
+5.> MOHIBTREE
+6.> CFPARTY
+7.> ANARC08G
+8.> PARADOX
+9.> HERDING
+
+MST/DIJKSTRA & SHORTEST PATHS:-
+
+1.> SHPATH
+2.> ULM09
+3.> BLINNET
+4.> BENEFACT
+5.> CHICAGO
+6.> IITWPC4I
+7.> MARYBMW
+8.> INCARDS
+9.> TRAFFICN
+10.> SAMER08A
+11.> KOICOST
+
+SCC (Lowest Common Ancestor + Topological Sort + Articulation Points):-
+
+1.> TOUR
+2.> BOTTOM
+3.> CAPCITY
+4.> WEBISL
+5.> LCA
+6.> SUBMERGE (ARTICULATION POINTS)
+7.> TOPOSORT (TOPOLOGICAL SORT)   *************************BTW USE KAHN'S INDEGREE METHOD INSTEAD OF TARJAN FOR TOPOLOGICAL SORTING, SIMPLER TO IMPLEMENT
+8.> PFDEP
+9.> EC_P
+
+DSU :-
+
+1.> BTCODE_G
+2.> CORNET
+3.> LOSTNSURVIVED
+4.> FOXLINGS  (CO-ORDINATE COMPRESSION)
+
+KMP/STRING ALGORITHMS:-
+
+NHAY
+FILRTEST
+TESSER
+EPALIN
+PERIOD
+
+
+SEGMENT TREE/BINARY INDEXED TREE:-
+
+1.> AKVQLD03
+2.> ANDROUND
+3.> INVCNT
+4.> HORRIBLE (Lazy Propagation)
+5.> LITE
+6.> MULTQ3
+7.> RMID
+8.> RPLN
+9.> RATINGS
+10.> DCEPC206
+11.> INCSEQ
+
+MORE PROBLEMS ON GREEDY/MATH/BINARY SEARCH:-
+
+1.> ABCDEF
+2.> SUBS
+3.> SUBSUMS (MEET IN THE MIDDLE)
+4.> NR2
+5.> ARRANGE
+6.> SECTORS
+7.> POTIONS
+8.> GCDEX
+9.> IITKWPCN
+
